@@ -30,4 +30,5 @@ Just paste the prompt, type your topic, and get a full structured breakdown — 
 ## How To Use
 
 **Step 1 — Copy the prompt**
+
 Go to `Universal-Prompt.md` and copy the full prompt text.  
