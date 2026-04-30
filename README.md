@@ -11,3 +11,5 @@ Universal-Topic-Prompt is a carefully engineered mega-prompt that instructs an A
 **No more scattered YouTube videos. No more incomplete blog posts.**
 
 Just paste the prompt, type your topic, and get a full structured breakdown — module by module.
+
+##  Features
