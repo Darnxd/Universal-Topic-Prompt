@@ -49,7 +49,9 @@ Just paste the prompt, type your topic, and get a full structured breakdown — 
 **Step 3 — Paste into any AI**  
 Works with: 
 
-- ✅ Claude (claude.ai)  
-- ✅ ChatGPT (chat.openai.com)  
-- ✅ Gemini (gemini.google.com)  
-- ✅ Any LLM that supports long prompts
+ -  Claude (claude.ai)  
+ -  ChatGPT (chat.openai.com)  
+ -  Gemini (gemini.google.com)  
+ -  Any LLM that supports long prompts
+
+**Step 4 — Get your course** 
