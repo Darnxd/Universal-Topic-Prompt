@@ -59,3 +59,16 @@ Works with:
 - The AI will generate **Module 1** immediately.  
 - To continue, simply type:
 - The AI will generate Module 2, then Module 3, and so on — in perfect sequence.  
+
+## Example Topics Tested
+
+| Topic | Modules Expected |
+|-------|------------------|
+| TCP | ~6 modules |
+| Nmap | ~8 modules |
+| Cybersecurity | ~12 modules |
+| Python Programming | ~10 modules |
+| Machine Learning | ~14 modules |
+| Computer Networking | ~11 modules |
+| Ethical Hacking | ~13 modules |
+| Data Science | ~12 modules |
