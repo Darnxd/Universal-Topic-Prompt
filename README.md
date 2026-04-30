@@ -26,3 +26,5 @@ Just paste the prompt, type your topic, and get a full structured breakdown — 
 | 📊 Diagrams | ASCII art / numbered flow explanations |
 | 🔒 Ethics & Security | Included wherever professionally relevant |
 | 📋 Executive Summary | 2–3 plain-English lines per module for non-technical readers |
+
+## How To Use
