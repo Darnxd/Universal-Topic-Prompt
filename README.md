@@ -36,3 +36,12 @@ Just paste the prompt, type your topic, and get a full structured breakdown — 
 **Step 2 — Replace the topic**  
 
    Find this line in the prompt: 
+   Replace *Cybersecurity* with your topic. Examples:  
+- TCP  
+- Nmap  
+- Python Programming  
+- Machine Learning  
+- Digital Marketing  
+- Ethical Hacking  
+- Cloud Computing  
+- UI/UX Design  
