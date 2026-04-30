@@ -28,3 +28,5 @@ Just paste the prompt, type your topic, and get a full structured breakdown — 
 |  Executive Summary | 2–3 plain-English lines per module for non-technical readers |
 
 ## How To Use
+
+**Step 1 — Copy the prompt** 
