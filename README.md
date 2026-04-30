@@ -47,7 +47,13 @@ Just paste the prompt, type your topic, and get a full structured breakdown — 
 - UI/UX Design
 
 **Step 3 — Select your language**  
-Find this line in the prompt:  
+Find this line in the prompt: 
+
+Replace *English* with your preferred language. Examples:  
+- Hindi  
+- Hinglish  
+- Punjabi  
+- Any other language supported by your AI tool  
 
 **Step 3 — Paste into any AI**  
 Works with: 
