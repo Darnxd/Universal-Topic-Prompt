@@ -55,7 +55,7 @@ Replace *English* with your preferred language. Examples:
 - Punjabi  
 - Any other language supported by your AI tool  
 
-**Step 3 — Paste into any AI**  
+**Step 4 — Paste into any AI**  
 Works with: 
 
  -  Claude (claude.ai)  
@@ -63,7 +63,7 @@ Works with:
  -  Gemini (gemini.google.com)  
  -  Any LLM that supports long prompts
 
-**Step 4 — Get your course** 
+**Step 5 — Get your course** 
 
 - The AI will generate **Module 1** immediately.  
 - To continue, simply type:
