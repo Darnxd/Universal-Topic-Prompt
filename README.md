@@ -46,6 +46,9 @@ Just paste the prompt, type your topic, and get a full structured breakdown — 
 - Cloud Computing  
 - UI/UX Design
 
+**Step 3 — Select your language**  
+Find this line in the prompt:  
+
 **Step 3 — Paste into any AI**  
 Works with: 
 
