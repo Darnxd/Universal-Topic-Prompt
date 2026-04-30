@@ -44,4 +44,7 @@ Just paste the prompt, type your topic, and get a full structured breakdown — 
 - Digital Marketing  
 - Ethical Hacking  
 - Cloud Computing  
-- UI/UX Design  
+- UI/UX Design
+
+**Step 3 — Paste into any AI**  
+Works with: 
