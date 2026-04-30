@@ -57,4 +57,5 @@ Works with:
 **Step 4 — Get your course** 
 
 - The AI will generate **Module 1** immediately.  
-- To continue, simply type: 
+- To continue, simply type:
+- The AI will generate Module 2, then Module 3, and so on — in perfect sequence.  
