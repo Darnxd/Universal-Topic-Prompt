@@ -72,3 +72,5 @@ Works with:
 | Computer Networking | ~11 modules |
 | Ethical Hacking | ~13 modules |
 | Data Science | ~12 modules |
+
+*(Number of modules varies by topic complexity. The AI determines the appropriate count automatically.)*
