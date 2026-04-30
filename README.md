@@ -55,3 +55,6 @@ Works with:
  -  Any LLM that supports long prompts
 
 **Step 4 — Get your course** 
+
+- The AI will generate **Module 1** immediately.  
+- To continue, simply type: 
