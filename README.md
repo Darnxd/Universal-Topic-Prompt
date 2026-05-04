@@ -86,3 +86,10 @@ Works with:
 
 ##  License
 This prompt is released under the **MIT License** — free to use, share, modify, and build upon. Credit appreciated but not required.
+
+## Contributing
+Found a way to make the prompt better? Open a Pull Request or raise an Issue.  
+Suggestions welcome:  
+- New section ideas for modules  
+- Topic-specific prompt variants  
+- Translations to other languages 
