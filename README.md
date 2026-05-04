@@ -1,4 +1,4 @@
-# Universal-Topic-Prompt
+8# Universal-Topic-Prompt
 
 **One prompt. Any topic. A complete mini-course — instantly.**
 
@@ -83,3 +83,6 @@ Works with:
 | Data Science | ~12 modules |
 
 *(Number of modules varies by topic complexity. The AI determines the appropriate count automatically.)*
+
+##  License
+This prompt is released under the **MIT License** — free to use, share, modify, and build upon. Credit appreciated but not required.
