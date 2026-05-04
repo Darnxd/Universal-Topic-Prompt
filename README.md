@@ -92,4 +92,8 @@ Found a way to make the prompt better? Open a Pull Request or raise an Issue.
 Suggestions welcome:  
 - New section ideas for modules  
 - Topic-specific prompt variants  
-- Translations to other languages 
+- Translations to other languages
+
+##  Support
+If this prompt saved you time or helped you learn something — consider giving the repo a star ⭐.  
+It helps others discover it and join the learning community.
