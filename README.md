@@ -97,3 +97,5 @@ Suggestions welcome:
 ##  Support
 If this prompt saved you time or helped you learn something — consider giving the repo a star ⭐.  
 It helps others discover it and join the learning community.
+
+**Built with prompt engineering by Gautam. Tested on Claude, ChatGPT, and Gemini.**
